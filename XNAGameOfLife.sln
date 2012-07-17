@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAGameOfLife", "XNAGameOfLife\XNAGameOfLife\XNAGameOfLife.csproj", "{775A3CC3-C7AD-44FF-BBAF-6B9727D98310}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNAGameOfLifeContent", "XNAGameOfLife\XNAGameOfLifeContent\XNAGameOfLifeContent.contentproj", "{56115F73-B249-4DBA-97CC-67F910120D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775A3CC3-C7AD-44FF-BBAF-6B9727D98310}.Debug|x86.ActiveCfg = Debug|x86
+		{775A3CC3-C7AD-44FF-BBAF-6B9727D98310}.Debug|x86.Build.0 = Debug|x86
+		{775A3CC3-C7AD-44FF-BBAF-6B9727D98310}.Release|x86.ActiveCfg = Release|x86
+		{775A3CC3-C7AD-44FF-BBAF-6B9727D98310}.Release|x86.Build.0 = Release|x86
+		{56115F73-B249-4DBA-97CC-67F910120D50}.Debug|x86.ActiveCfg = Debug|x86
+		{56115F73-B249-4DBA-97CC-67F910120D50}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
